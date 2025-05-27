@@ -26,8 +26,9 @@ The Excel file consists of three sheets:
 ## 📁 File
 
 - `Formula Excel Template.xlsx:  The Excel file with Formula's.
-- 23rd May.csv: The Sheet with Pivot Tables
-- Xlookup file tutorial: The sheet contains operations and basic functionality of Xlookup()
+- 23rd May.csv: The Sheet with Pivot Tables.
+- Conditional Formatting Excel Tutorial File.xlsx
+- Xlookup file tutorial: The sheet contains operations and basic functionality of Xlookup().
 - Screenshots: Screenshots of Output with name
 
 ## ✅ Requirements
