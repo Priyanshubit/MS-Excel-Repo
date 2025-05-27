@@ -30,6 +30,8 @@ The Excel file consists of three sheets:
 - Conditional Formatting Excel Tutorial File.xlsx
 - Xlookup file tutorial: The sheet contains operations and basic functionality of Xlookup().
 - Screenshots: Screenshots of Output with name
+- Practice sheet 1 (messy): For practise download it
+- Practice sheet 1 (cleaned)
 
 ## ✅ Requirements
 - Microsoft Excel (preferably 2016 or later for `XLOOKUP`)
