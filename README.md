@@ -33,6 +33,7 @@ The Excel file consists of three sheets:
 - Practice sheet 1 (messy): For practise download it
 - Practice sheet 1 (cleaned)
 - Uncommon Excel functions: Used formula such as, eomonth, pmt, formulatext,let and hyperlink.
+- Excel Project 1 (BIke dashboard).xlsx: Cleaned standardize sheet along with Pivot tables and Dashboard
 
 ## ✅ Requirements
 - Microsoft Excel (preferably 2016 or later for `XLOOKUP`)
